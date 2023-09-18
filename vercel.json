@@ -3,7 +3,7 @@
   "builds": [
       {
           "src": "*.py",
-          "use": "@liudonghua123/now-fastapi"
+          "use": "@vercel/python"
       }
   ],
   "routes": [
