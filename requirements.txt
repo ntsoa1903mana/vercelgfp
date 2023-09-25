@@ -1,7 +1,7 @@
 pip==23.2.1
 fastapi==0.103.1
 uvicorn==0.23.2
-gf4==0.0.3.4
+gf4==0.0.3.0
 PyExecJS
 quart
 dotenv
